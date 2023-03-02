@@ -11,6 +11,9 @@ Scripts para encontrar os 32 maiores arquivos para determinar a área mínima de
 Planilha de exmplo de calculo de área mínima de preparo.xlsx
 
 
+
+## **Mais informações**
+
 **Para maior entendimento para execução do script acesse o link do artigo: https://cooperati.com.br/2023/03/windows_server_backup_powershell/**
 
 **Créditos - Gabriel Luiz - www.gabrielluiz.com**
