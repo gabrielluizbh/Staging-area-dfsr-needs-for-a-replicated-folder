@@ -6,6 +6,10 @@ Antes de fazer uso do script abaixo habilite os caminhos longos em Windows 10, v
 
 ## **Conteúdo:**
 
+Scripts para encontrar os 32 maiores arquivos para determinar a área mínima de preparo exigida pelo DFSR para uma pasta replicada.ps1
+
+Planilha de exmplo de calculo de área mínima de preparo.xlsx
+
 
 **Para maior entendimento para execução do script acesse o link do artigo: https://cooperati.com.br/2023/03/windows_server_backup_powershell/**
 
