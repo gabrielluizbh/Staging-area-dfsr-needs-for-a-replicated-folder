@@ -1,4 +1,4 @@
-# Script para encontrar os 32 maiores arquivos para determinar a área mínima de preparo exigida pelo DFSR para uma pasta replicada
+# Script para encontrar os 32 maiores arquivos para determinar a área mínima de preparo exigida pelo DFSR para uma pasta replicada.
 
 Antes de fazer uso do script abaixo habilite os caminhos longos em Windows 10, versão 1607 e posterior, utilizando o comando abaixo e reinicie o sistema operacional.
 
